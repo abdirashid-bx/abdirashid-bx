@@ -1,6 +1,6 @@
 # Hi there, I'm Abdirashiid! 👋
 
-I'm a passionate **front-end web and app developer** who loves building modern, responsive, and user-friendly applications. I focus on both **web** and **mobile** development using powerful tools like:
+I'm a passionate **front-end developer** who loves building modern, responsive, and user-friendly applications. I focus on both **web** and **mobile** development using powerful tools like:
 
 ## 🛠️ Tech Stack
 
